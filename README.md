@@ -1,4 +1,3 @@
-# Titanic-Mission_in_Kaggle
 """
 Decision Tree Classifier for Titanic Dataset
 
