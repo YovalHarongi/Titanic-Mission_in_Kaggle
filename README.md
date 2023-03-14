@@ -15,3 +15,15 @@ The main file of the project is `decision_tree_classifier.py`, which contains th
 
 ```bash
 python decision_tree_classifier.py
+
+This will load the training and test data from the train.csv and test.csv files, preprocess the data by filling missing values and encoding categorical variables, fit a decision tree classifier to the training data, and make predictions for the test data. The accuracy of the predictions is printed to the console, along with the confusion matrix and precision and recall scores.
+
+License:
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments:
+This project is based on the Kaggle Titanic competition and the following resources:
+
+Titanic Data Science Solutions by Manav Sehgal
+Building your first ML model by Alexis Cook
+"""
